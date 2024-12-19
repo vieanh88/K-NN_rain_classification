@@ -6,9 +6,6 @@ Thuật toán: K-Nearest Neighbors
 ### Dữ liệu:
 (link lấy data: https://www.kaggle.com/datasets/khinguyntin/hanoiweather1990-2024-data-from-visual-crossing)
 
-Tập dữ liệu:  https://drive.google.com/file/d/10pGrDQE8fzoP8JeHUGsEX5EBku_pKEJi/view?usp=drive_link
-https://colab.research.google.com/drive/15UJpiq2sRGu5_n9SBQHSgsyjXmWT69M2#scrollTo=-X9sVznuK8DP
-
 - Thông tin Dữ liệu: 
 Bộ dữ liệu có 12,539 dòng và 13 cột, bao gồm các thuộc tính liên quan đến thời tiết của Hà Nội qua nhiều năm.
 Các cột chứa thông tin về ngày (datetime), nhiệt độ cao nhất (tempmax), nhiệt độ thấp nhất (tempmin), nhiệt độ trung bình (temp), độ ẩm (humidity), lượng mưa (precip), xác suất mưa (precipprob), loại mưa (preciptype), tốc độ gió (windspeed), hướng gió (winddir), độ che phủ mây (cloudcover), áp suất khí quyển ở mực nước biển (sealevelpressure), và điều kiện thời tiết (conditions).
