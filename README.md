@@ -1,4 +1,4 @@
-# Bài tập lớn môn học "Nhập môn Trí tuệ nhân tạo"
+# BÀI TẬP LỚN MÔN: NHẬP MÔN TRÍ TUỆ NHÂN TẠO
 ## Đề tài: Dự báo có mưa
 ## Phương pháp thực hiện
 ### Mô hình
@@ -36,10 +36,10 @@ Kết quả huấn luyện:
 
 [<img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-github-badge-28.svg" alt="Visualize in Weights & Biases" width="200" height="32"/>](https://wandb.ai/vietanh-88/knn-rain-prediction?nw=nwuservietanh88)
 
-![alt text](img\result.png)
+![alt text](img/result.png)
 
 Ma trận nhầm lẫn:
-![alt text](img\confusionMatrix.png)
+![alt text](img/confusionMatrix.png)
 
 Kết quả tốt nhất trên tập test:
 - Accuracy: 0.68196
